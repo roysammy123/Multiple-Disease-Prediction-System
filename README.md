@@ -1,1 +1,2 @@
 # Multiple-Disease-Prediction-System
+Built a Multiple Disease Prediction system webapp using streamlit which predicts test results based on models built for multiple diseases like heart disease, diabetes, and Parkinson's disease using Support Vector Classification and Logistic Regression machine learning algorithms. These models can assist healthcare professionals in identifying individuals at risk of these diseases early, enabling timely interventions and better patient outcomes.
